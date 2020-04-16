@@ -1,6 +1,6 @@
 # Project 0
 
-For Project 0, you will be building a RESTful API using TypeScript and Express. Associates are allowed to come up with their own API idea, but it must be approved by the trainer; suggested ideas are provided below. All project ideas must have a sufficiently complex data model (at least entities). All database tables must be normalized to 3NF. The API should expose CRUD endpoints for resources in a RESTful manner. Application data must be persisted to a SQL database.
+For Project 0, you will be building a RESTful API using TypeScript and Express. Associates are allowed to come up with their own API idea, but it must be approved by the trainer; suggested ideas are provided below.
 
 Suggestions: 
 - resource management system API
@@ -12,7 +12,7 @@ Suggestions:
 - [ ] RESTful API (At least Level 2 of the [Richardson Maturity Model](https://martinfowler.com/articles/richardsonMaturityModel.html))
 - [ ] Documentation (all methods have basic documentation)
 - [ ] Unit testing (>= 80% coverage)
-- [ ] SQL Data Persistance (all tables 3NF)
+- [ ] SQL Data Persistance (at least 3 tables; all 3NF)
 - [ ] Logging (extra)
 - [ ] Authentication/Authorization (extra)
 
