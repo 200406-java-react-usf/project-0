@@ -9,7 +9,7 @@ Suggestions:
 - mobile banking application API
 
 ## Features
-- [ ] RESTful API (At least Level 2 of the [https://martinfowler.com/articles/richardsonMaturityModel.html](Richardson Maturity Model))
+- [ ] RESTful API (At least Level 2 of the [Richardson Maturity Model](https://martinfowler.com/articles/richardsonMaturityModel.html))
 - [ ] Documentation (all methods have basic documentation)
 - [ ] Unit testing (>= 80% coverage)
 - [ ] SQL Data Persistance (all tables 3NF)
