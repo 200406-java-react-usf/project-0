@@ -25,10 +25,10 @@ Suggestions:
 - [ ] Git SCM (on GitHub)
 
 ## Init Instructions
-- Create a new repository within this organization (naming convention: `firstname_lastname_p0`)
 - Select a project idea and submit it to trainer for approval. Be sure to include:
   - The 3 data entities that you will be persisting
   - Any external APIs that you will be using (not required if none are used)
+- Once approved, create a new repository within this organization (naming convention: `firstname_lastname_p0`)
 
 ## Presentation
 - [ ] 5 minute live demonstration of endpoint consumption using Postman
